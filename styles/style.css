@@ -130,12 +130,12 @@ ol {
 }
 
 .content__accent {
-  color: #545050;
   font-family: "Oswald";
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
   line-height: 94%;
+  color: #545050;
   text-transform: uppercase;
 }
 
